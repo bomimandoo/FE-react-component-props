@@ -16,9 +16,9 @@ function App() {
         alignItems: "center",
       }}
     >
-      {/* <BoxAlign /> */}
-      {/* <SelectButtons /> */}
-      {/* <PlayGround /> */}
+      { <BoxAlign /> }
+      {<SelectButtons /> }
+      {<PlayGround /> }
     </div>
   );
 }
